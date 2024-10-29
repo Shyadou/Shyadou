@@ -3,7 +3,6 @@
 📚 Estudante de Desenvolvimento Web
 📍 Rio das Ostras, RJ
 
-Sobre Mim
 Desenvolvedor em formação com experiência em suporte técnico e TI. Apaixonado por resolver problemas e construir soluções inovadoras. Em busca de novas oportunidades para colaborar e crescer na área de tecnologia!
 
 Habilidades Técnicas
