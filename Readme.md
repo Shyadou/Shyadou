@@ -8,7 +8,7 @@
 𝙋𝙤𝙧𝙩𝙪𝙜𝙪𝙚𝙨𝙚 & 𝙀𝙣𝙜𝙡𝙞𝙨𝙝
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://github.com/user-attachments/assets/b121a476-3d45-423c-b171-d40ac7f7015d" width="100%"><br>
+<img width="330" height="328" alt="Image" src="https://github.com/user-attachments/assets/2a4bd608-08ac-4fc9-abe4-04660e9443ca" />
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=FRONT+END+DEVELOPER" alt="Typing SVG"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=UX%2FUI+DESIGNER" alt="Typing SVG">
