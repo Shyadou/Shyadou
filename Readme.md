@@ -1,91 +1,95 @@
-<!-- DARK / TACTICAL / ALPHA / GAME-CINEMATIC README -->
+# Olá! Eu sou o Antonio Kai 👋
 
-<p align="center">
-  <!-- Replace with your Chris Redfield GIF (short, cinematic, dark) -->
-  <img src="https://64.media.tumblr.com/cb707bfda35e3a2037241b09c24b0f7e/ce0e308b2b1084b8-4b/s540x810/7678fe57b4d79374f04ccd7ab50c38adb2b2a3cf.gif" width="100%" />
-</p>
-
-<h1 align="center">Antonio "Kai" Parente</h1>
-<h3 align="center">Front-end Developer • UI/UX Designer</h3>
-
-<p align="center">
-  <i>Building interfaces that feel powerful, clean and intuitive.</i>
-</p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shyadou&color=blueviolet&style=flat-square)
+  
+  **Front-end Developer | UI/UX Designer**
+  
+  *Transformando ideias em experiências digitais incríveis* ✨
+  
+</div>
 
 ---
 
-## 🧠 About Me
+## 🚀 Sobre Mim
 
-I specialize in **Front-end development** with a strong focus on **UI/UX design**.
-My goal is to create interfaces that are not only visually strong, but also intuitive,
-performant, and intentional.
-
-**Front-end is my main weapon.**
-**Back-end is support — not the battlefield.**
-
----
-
-## 🎨 Front-end — Main Focus
-
-* HTML5
-* CSS3 (Responsive Design, Flexbox, Grid)
-* JavaScript (ES6+)
-* UI Systems & Design Consistency
-* Accessibility (Basics)
-* Performance-oriented interfaces
+- 💼 Desenvolvedor Front-end com foco em UI/UX
+- 🎨 Apaixonado por criar interfaces intuitivas e elegantes
+- 🌱 Atualmente trabalhando com React, TypeScript e Python
+- 🔭 Desenvolvendo sistemas corporativos modernos e escaláveis
+- ⚡ Sempre em busca de novos desafios e aprendizados
 
 ---
 
-## 🧩 UI / UX Design
+## 🛠️ Tecnologias & Ferramentas
 
-* Figma
-* Design Systems
-* Visual Hierarchy
-* User Flow
-* Microinteractions
-* Clean & tactical layouts
+<div align="center">
 
----
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## ⚙️ Back-end — Supporting Skills
+### Backend & Database
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-> Used as a foundation to support front-end experiences.
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-* MySQL
-* Basic Authentication
-* API Consumption
-* Data handling fundamentals
+### Design
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-> Pinned repositories focus on **visual quality**, **user experience**, and **clean structure**.
-
-* **UI-focused projects** — Interfaces, dashboards, landing pages
-* **Front + Back projects** — Complete flows with simple back-end support
-* **Experimental visuals** — Concepts and visual studies
-
-Each project includes documentation, visuals, and clear design decisions.
+</div>
 
 ---
 
-## 🧩 Philosophy
+## 📊 GitHub Stats
 
-* Design is not decoration. It is control.
-* Clean UI creates trust.
-* Every interface must have intention.
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyadou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyadou&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shyadou&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📍 Location & Info
+## 💼 Projetos em Destaque
 
-* 📍 Rio de Janeiro, Brazil
-* 🌎 Portuguese / English
+### 🛒 Sistema de Requisições e Compras
+Sistema corporativo completo com gestão de requisições, aprovações e fornecedores.
+- **Stack**: React, FastAPI, Azure, SQLite
+- **Features**: Autenticação MS Graph, Sistema de aprovações multi-nível, Notificações por email
 
 ---
 
-<p align="center">
-  <i>Clean UI. Clear intention.</i>
-</p>
+## 📫 Como me Encontrar
 
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-totonhoparente@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:totonhoparente@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_PORTFOLIO.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+  *"O design não é apenas como parece e como se sente. O design é como funciona."* - Steve Jobs
+  
+  ⭐ From [Shyadou](https://github.com/Shyadou)
+  
+</div>
